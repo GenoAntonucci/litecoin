@@ -1,4 +1,4 @@
-Litecoin integration/staging tree
+Turnips integration/staging tree
 ================================
 
 http://www.litecoin.org
